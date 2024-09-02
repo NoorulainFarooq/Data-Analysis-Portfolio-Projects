@@ -25,13 +25,7 @@ Each project demonstrates different techniques and methodologies for processing 
      -  Data formatting: Standardizing and preparing data for analysis
      -  Handling missing values: Applying appropriate techniques
      -  Data visualization: Analyzing call patterns and customer interactions
-4. - **Description**: Analyzed Airbnb data to uncover key insights and trends related to listings, pricing, and occupancy rates across different regions. Created interactive dashboards for visual storytelling and data-driven decision-making.
-  -  **Tools Used**:   Tableau
-  -  **Key Features**:
-    - Interactive Dashboards: Created visualizations that allow users to explore data through filters and parameters.
-    - Geographical Analysis: Analyzed regional trends using maps and location-based data visualizations.
-    - Insight Generation: Identified key trends in pricing, demand, and occupancy rates for Airbnb listings.
-5. - **Description**: Conducted a detailed analysis of data profession trends using Power BI. Utilized DAX functions to clean data, remove duplicates, and create a comprehensive dashboard showcasing key insights.
+4. - **Description**: Conducted a detailed analysis of data profession trends using Power BI. Utilized DAX functions to clean data, remove duplicates, and create a comprehensive dashboard showcasing key insights.
     -  **Tools Used**: Power BI
     -  **Key Features**:
      - Data Cleaning: Removed duplicates and standardized data using DAX functions.
