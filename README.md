@@ -24,7 +24,7 @@ Each project demonstrates different techniques and methodologies for processing 
      -  Data cleaning: Handling inconsistencies and errors
      -  Data formatting: Standardizing and preparing data for analysis
      -  Handling missing values: Applying appropriate techniques
-4. - **Description**: Conducted a detailed analysis of data profession trends using Power BI. Utilized DAX functions to clean data, remove duplicates, and create a comprehensive dashboard showcasing key insights.
+4. - **Description**: Conducted a detailed analysis of data profession trends using Power BI. Utilized DAX functions to clean data and, remove duplicates.
     -  **Tools Used**: Power BI
     -  **Key Features**:
      - Data Cleaning: Removed duplicates and standardized data using DAX functions.
