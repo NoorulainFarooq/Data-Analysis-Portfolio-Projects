@@ -19,12 +19,11 @@ Each project demonstrates different techniques and methodologies for processing 
      -   Pivot Table: Created pivot tables to summarize and analyze key metrics.
      -   Dashboard: Designed an interactive dashboard to visualize trends and insights from the bike sales data.
 3. - **Description**: Cleaned and analyzed a customer call list dataset using Python’s Pandas library. This project involved handling inconsistencies, formatting data, and dealing with missing values. Visualizations were created to reveal call patterns and customer interactions.
-    -  **Tools Used**: Python (Pandas), Matplotlib/Seaborn
+    -  **Tools Used**: Python (Pandas)
     -  **Key Features**:
      -  Data cleaning: Handling inconsistencies and errors
      -  Data formatting: Standardizing and preparing data for analysis
      -  Handling missing values: Applying appropriate techniques
-     -  Data visualization: Analyzing call patterns and customer interactions
 4. - **Description**: Conducted a detailed analysis of data profession trends using Power BI. Utilized DAX functions to clean data, remove duplicates, and create a comprehensive dashboard showcasing key insights.
     -  **Tools Used**: Power BI
     -  **Key Features**:
